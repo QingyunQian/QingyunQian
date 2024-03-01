@@ -20,7 +20,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/QingyunQian/count.svg)
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Hello！I'm__QingyunQian__
 
 <!--
 **QingyunQian/QingyunQian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
