@@ -7,12 +7,11 @@
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/qian-qing-yun-5)
 [![BiliBili](https://img.shields.io/badge/video-BiliBili-red)](https://space.bilibili.com/87841166)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+[![modern cpp](https://img.shields.io/badge/code-Julia_Python-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/研究方向-QIQC-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/终将爱上-写代码-red)
-![](https://img.shields.io/badge/code-julia&python-purple)
-![](https://img.shields.io/badge/科学计算-量子物理-red)
+![](https://img.shields.io/badge/科学计算-量子物理-purple)
 
 </div>
 
