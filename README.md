@@ -17,7 +17,6 @@
 </div>
 
 
-Total Vistor Count:
 ![Visitor Count](https://profile-counter.glitch.me/QingyunQian/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Welcome!I'm_Qingyun_Qian
