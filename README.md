@@ -3,8 +3,6 @@
 
 ![Modern C++ template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QingyunQian&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
 [![modern cpp](https://img.shields.io/badge/Code-Julia_Python-orange)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
 ![](https://img.shields.io/badge/研究方向-量子信息-red) 
 ![](https://img.shields.io/badge/科学计算-量子计算-yellow)
