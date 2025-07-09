@@ -10,11 +10,15 @@
 ![](https://img.shields.io/badge/终将爱上Coding-兴趣是最好的老师-purple)
 
 <!-- 头像或主题图 -->
+<!-- 头像或主题图 -->
 <img width="320" src="https://github.com/QingyunQian/QingyunQian/blob/main/Quantum.jpg" alt="Quantum Visual"/>
 
-<div align="center">
+<!-- 等宽徽章（与头像图对齐） -->
+<img src="https://img.shields.io/badge/%F0%9F%8C%9FSimple%20Code,%20Deep%20Insight%F0%9F%8C%9F-B39DDB?style=for-the-badge&labelColor=B39DDB&logoColor=white"
+     alt="🌟Simple Code, Deep Insight🌟"
+     width="320" />
 
-<img src="https://img.shields.io/badge/Simple%20code,%20Deep%20insight-B39DDB?style=for-the-badge&labelColor=B39DDB&logoColor=white" alt="Simple Code, Deep Insight">
+
 <div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=QingyunQian&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" height="180px" />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=QingyunQian&layout=compact&theme=dracula&hide=jupyter%20notebook,Shell,PowerShell&role=OWNER,ORGANIZATION_MEMBER" height="180px" />
