@@ -2,13 +2,20 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&size=26&duration=3000&color=F75C7E&lines=Welcome!+I'm+Qingyun+Qian)
 
-[![Code: Julia & Python](https://img.shields.io/badge/Code-Julia_%7C_Python-orange)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
-![](https://img.shields.io/badge/研究方向-量子信息-red)
-![](https://img.shields.io/badge/科学计算-量子计算-yellow)
-![](https://img.shields.io/badge/性格-开朗-brown)
-![](https://img.shields.io/badge/MBTI-INTP-66ccff)
-![](https://img.shields.io/badge/终将爱上Coding-兴趣是最好的老师-purple)
+[![Language: Julia | Rust | Python](https://img.shields.io/badge/Language-Julia_%7C_Rust_%7C_Python-orange)](https://www.rust-lang.org/)
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="22" alt="Julia"/>
+<img src="https://rustacean.net/assets/rustacean-flat-noshadow.png" height="22" alt="Rust (Ferris)"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="Python"/>
 
+
+![](https://img.shields.io/badge/研究方向-量子多体物理-red)
+![](https://img.shields.io/badge/Ai4Science-量子计算-yellow)
+![](https://img.shields.io/badge/MBTI-INTP-66ccff)
+![](https://img.shields.io/badge/Coding-兴趣是最好的老师-purple)
+
+![](https://img.shields.io/badge/DeFi-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![](https://img.shields.io/badge/DeSci-Solana-9945FF?logo=solana&logoColor=white)
 <!-- 头像或主题图 -->
 <!-- 头像或主题图 -->
 <img width="320" src="https://github.com/QingyunQian/QingyunQian/blob/main/Quantum.jpg" alt="Quantum Visual"/>
