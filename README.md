@@ -2,9 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&size=26&duration=3000&color=F75C7E&lines=Welcome!+I'm+Qingyun+Qian)
 
-<p>
-  <img src="https://img.shields.io/badge/Skills%20%2F%20Tools-6E56CF?style=for-the-badge&logo=github&logoColor=white" alt="Skills / Tools"/>
-</p>
 
 <p>
   <img src="https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white" alt="Julia"/>
@@ -20,13 +17,18 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-![](https://img.shields.io/badge/研究方向-量子多体物理-red)
-![](https://img.shields.io/badge/Ai4Science-量子计算-yellow)
-![](https://img.shields.io/badge/MBTI-INTP-66ccff)
-![](https://img.shields.io/badge/Coding-兴趣是最好的老师-purple)
+<p>
+  <img src="https://img.shields.io/badge/量子计算-量子多体物理-red" alt="Quantum Many-body Physics"/>
+  <img src="https://img.shields.io/badge/Quantum4AI-AI4Science-yellow" alt="AI4Science Quantum Computing"/>
+  <img src="https://img.shields.io/badge/DeFi-Ethereum-3C3C3D?logo=ethereum&logoColor=white" alt="DeFi Ethereum"/>
+  <img src="https://img.shields.io/badge/DeSci-Solana-9945FF?logo=solana&logoColor=white" alt="DeSci Solana"/>
+</p>
 
-![](https://img.shields.io/badge/DeFi-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-![](https://img.shields.io/badge/DeSci-Solana-9945FF?logo=solana&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/MBTI-INTP-66ccff" alt="MBTI INTP"/>
+  <img src="https://img.shields.io/badge/Coding-兴趣是最好的老师-purple" alt="Coding"/>
+</p>
 
 <!-- 头像或主题图 -->
 <img width="320" src="https://github.com/QingyunQian/QingyunQian/blob/main/Quantum.jpg" alt="Quantum Visual"/>
